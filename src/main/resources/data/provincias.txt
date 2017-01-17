@@ -1,0 +1,52 @@
+Álava;313819
+Albacete;400891
+Alicante;1917012
+Almería;684426
+Ávila;171680
+Badajoz;688777
+Baleares;1095426
+Barcelona;5487935
+Burgos;375563
+Cáceres;413633
+Cádiz;1230594
+Castellón;602301
+Ciudad Real;527273
+Córdoba;803998
+Coruña (A);1145488
+Cuenca;217363
+Girona;747782
+Granada;907428
+Guadalajara;246151
+Guipúzcoa;705698
+Huelva;513403
+Huesca;228409
+Jaén;669782
+León;500169
+Lleida;436402
+Rioja (La);321702
+Lugo;355195
+Madrid;6386932
+Málaga;1593068
+Murcia;1446520
+Navarra;630578
+Ourense;335642
+Asturias;1085289
+Palencia;173306
+Las Palmas;1083502
+Pontevedra;959764
+Salamanca;354608
+Santa Cruz de Tenerife;1020490
+Cantabria;589235
+Segovia;164854
+Sevilla;1900224
+Soria;95101
+Tarragona;803301
+Teruel;146751
+Toledo;689635
+Valencia;2575362
+Valladolid;532575
+Vizcaya;1152658
+Zamora;195665
+Zaragoza;970313
+Ceuta;78674
+Melilla;73460
